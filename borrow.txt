@@ -1,0 +1,5 @@
+Borrow 1:
+borrowed_book: raya
+borrower_person: DAra fgh
+is_returned: 0
+

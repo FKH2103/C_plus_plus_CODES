@@ -1,0 +1,16 @@
+Book 1:
+Name: man
+Author: mana
+Genre: gfd
+Number_of_pages: 123
+Year_of_publication: 1200
+is_borrowed: 0
+
+Book 2:
+Name: raya
+Author: hjk
+Genre: gfd
+Number_of_pages: 234
+Year_of_publication: 1298
+is_borrowed: 1
+
